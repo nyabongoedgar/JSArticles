@@ -1,0 +1,1 @@
+(function alertMessage(){window.alert("Hello World")})();
